@@ -38,8 +38,7 @@ I'm a passionate **Android & .NET developer** dedicated to building software tha
 ## 📱 Recent Projects
 
 - [MyRiyal](https://github.com/mojazi42/MyRiyal): An Android app for currency management and conversions  
-- [SawaApp](https://github.com/mojazi42/SawaApp): A mobile solution simplifying daily tasks  
-- [Student Management System](https://github.com/mojazi42/StudentManagementSystem): A **.NET Core MVC** project for managing students CRUD operations  
+- [SawaApp](https://github.com/mojazi42/SawaApp): A mobile solution simplifying daily tasks   
 
 ---
 
