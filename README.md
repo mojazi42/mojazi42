@@ -2,18 +2,7 @@
 
 <div align="center">
 
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mojazi42&show_icons=true&theme=radical" 
-       height="150" 
-       alt="GitHub Stats" />
-
-  <!-- Spacer -->
-  <span style="display:inline-block; width:20px;"></span>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojazi42&layout=compact&theme=radical" 
-       height="150" 
-       alt="Top Languages" />
+ 
 
   <!-- Spacer -->
   <span style="display:inline-block; width:20px;"></span>
