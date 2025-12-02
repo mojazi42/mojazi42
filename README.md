@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mojazi42&show_icons=true&theme=dracula&include_all_commits=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=mojazi42&show_icons=true&theme=radical" 
        height="150" 
        alt="GitHub Stats" />
 
@@ -11,7 +11,7 @@
   <span style="display:inline-block; width:20px;"></span>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojazi42&layout=compact&langs_count=5&theme=dracula" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojazi42&layout=compact&theme=radical" 
        height="150" 
        alt="Top Languages" />
 
@@ -19,11 +19,12 @@
   <span style="display:inline-block; width:20px;"></span>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=mojazi42&theme=dracula&mode=daily&border_radius=5" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojazi42&theme=radical&mode=daily&border_radius=5" 
        height="150" 
        alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
