@@ -1,9 +1,28 @@
 <h2 align="center">Hi 👋! My name is Mohammed Alharbi</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mojazi42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mojazi42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mojazi42&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mojazi42&show_icons=true&theme=dracula&include_all_commits=true" 
+       height="150" 
+       alt="GitHub Stats" />
+
+  <!-- Spacer -->
+  <span style="display:inline-block; width:20px;"></span>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojazi42&layout=compact&langs_count=5&theme=dracula" 
+       height="150" 
+       alt="Top Languages" />
+
+  <!-- Spacer -->
+  <span style="display:inline-block; width:20px;"></span>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=mojazi42&theme=dracula&mode=daily&border_radius=5" 
+       height="150" 
+       alt="GitHub Streak" />
+
 </div>
 
 ---
