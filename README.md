@@ -8,7 +8,7 @@
   <span style="display:inline-block; width:20px;"></span>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojazi42&theme=radical&mode=daily&border_radius=5" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojazi42&theme=radical&mode=daily&border_radius=5&include_all_commits=true"
        height="150" 
        alt="GitHub Streak" />
 
