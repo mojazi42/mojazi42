@@ -22,7 +22,7 @@ I'm a passionate **Android & .NET developer** dedicated to building software tha
 
 - 💻 Specializing in **Android development** with **Kotlin** and **Jetpack Compose**  
 - 🌐 Experienced in **.NET development** with **ASP.NET Core** and **C#**  
-- 📱 Building modern, intuitive mobile & web apps  
+- 📱 Building modern, intuitive mobile & web api apps  
 - 🎯 Goal: Empower individuals with useful, easy-to-use software solutions  
 
 ---
